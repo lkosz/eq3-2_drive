@@ -30,7 +30,7 @@
 
 
 ## My choices ##
-* ![Flexible clutch 6,35/5mm](https://static1.redcart.pl/templates/images/thumb/995/1500/1500/pl/0/templates/images/products/995/adc648671c8d53c314f9d0aac80086b8.jpg)
+* [Flexible clutch 6,35/5mm](https://static1.redcart.pl/templates/images/thumb/995/1500/1500/pl/0/templates/images/products/995/adc648671c8d53c314f9d0aac80086b8.jpg)
 * [Motor SM-42BYH1684](https://botland.com.pl/silniki-krokowe/10892-silnik-krokowy-sm-42byh1684-400-krokowobr-28v-168a-048nm.html)
 * [Motor driver](https://www.pololu.com/product/2970)
 * [Display](https://botland.com.pl/wyswietlacze-segmentowe-led/5973-modul-4x-wyswietlacz-7-segmentowy-interfejs-cyfrowy.html)
