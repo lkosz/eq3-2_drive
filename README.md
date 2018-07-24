@@ -35,3 +35,4 @@
 * [Motor driver](https://www.pololu.com/product/2970)
 * [Display](https://botland.com.pl/wyswietlacze-segmentowe-led/5973-modul-4x-wyswietlacz-7-segmentowy-interfejs-cyfrowy.html)
 * Blue Pro Micro
+* power supply from 6V 4,5Ah AGM battery (schema in separate repo soon)
