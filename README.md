@@ -36,3 +36,11 @@
 * [Display](https://botland.com.pl/wyswietlacze-segmentowe-led/5973-modul-4x-wyswietlacz-7-segmentowy-interfejs-cyfrowy.html)
 * Blue Pro Micro
 * power supply from 6V 4,5Ah AGM battery (schema in separate repo soon)
+
+## 3D models: ##
+
+gears are for 90 deg. transmission, holes are for molex 8981 plugs 
+
+![Schema](ra.png)
+![Schema](dec.png)
+![Schema](gears.png)
